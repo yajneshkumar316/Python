@@ -3,7 +3,7 @@
 # pip3 install pyautogui
 
 import pyautogui
-import time        #
+import time        
 time.sleep(4)      # Will wait for 4 seconds before running the program
 count = 0
 
